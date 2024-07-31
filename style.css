@@ -1,0 +1,239 @@
+.container {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.blue li {
+    display: inline;
+    padding-left: 68px;
+}
+
+.green h1 {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-left: 70px;
+    font-size: 22px;
+
+}
+
+.red li {
+    display: inline;
+    padding-right: 74px;
+}
+
+.orange h1 {
+    /* padding-top: 100px; */
+    padding-left: 95px;
+    display: inline;
+}
+
+.orange p {
+    /* display: inline;  */
+    /* padding-top: 100px; */
+    width: 300px;
+    padding-left: 95px;
+}
+.orange img {
+    padding-bottom: 10px;
+}
+
+section {
+    width: 200px;
+    padding-left: 95px;
+    box-shadow: red;
+}
+
+
+.orange img {
+    display: inline;
+    /* padding-bottom: 100px; */
+    padding-right: 500px;
+    /* border-radius: 50%; */
+    text-align: center;
+    float: right;
+    width: 200px;
+}
+
+.border {
+    display: flex;
+    padding-top: 200px;
+}
+
+.img img {
+    padding-left: 95px;
+    width: 50px;
+    padding-right: 130px;
+    /* display: flex; */
+}
+
+.text {
+    position: absolute;
+    padding-top: 50px;
+    padding-right: 20px;
+    /* padding-top: 0%; */
+}
+
+.text h4 {
+    padding-left: 95px;
+}
+
+.text p {
+    padding-left: 86px;
+}
+
+.book {
+    position: absolute;
+
+}
+
+.book h4 {
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 303px;
+
+}
+
+.book p {
+    padding-left: 360px;
+}
+
+.car {
+    position: absolute;
+}
+
+.car h4 {
+    padding-top: 50px;
+    padding-left: 630px;
+}
+
+.car p {
+    padding-left: 610px;
+}
+
+.blue1 {
+    padding-top: 100px;
+    display: flex;
+}
+
+.class img {
+    /* display: flex; */
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+    padding-right: 0%;
+}
+
+.class2 h2 {
+    width: 300px;
+    padding-left: 100px;
+    /* display: flex; */
+}
+
+.class2 p {
+    width: 400px;
+    padding-left: 100px;
+}
+
+.pink0 h1 {
+    text-align: center;
+    align-items: center;
+    padding-right: 280px;
+}
+
+.pink0 p {
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    align-items: center;
+    justify-content: center;
+    width: 730px;
+    padding-left: 150px;
+}
+
+.container {
+    display: flex;
+}
+
+.item {
+    display: flex;
+}
+
+.item img {
+    height: 200px;
+    width: 100px;
+}
+
+.item div h1 {
+    padding-left: 30px;
+}
+
+.item div p {
+    margin: 0%;
+    padding-left: 30px;
+    width: 200px;
+}
+
+.item form section {
+    padding-top: 10px;
+    padding-left: 30px;
+    color: orange;
+    /* overflow: hidden; */
+    /* float: left; */
+    /* box-sizing: border-box; */
+}
+.store h1 {
+    text-align: center;
+    align-items: center;
+    padding-right: 280px;
+}
+
+.store p {
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    align-items: center;
+    justify-content: center;
+    width: 730px;
+    padding-left: 150px;
+}
+.baby{
+    display: flex;
+}
+.item1 img{
+    position: absolute;
+    width: 200px;
+    padding-left: 50px;
+    padding-bottom: 0%;
+}
+.item1 h2{
+    padding-top: 95px;
+    position: relative;
+    padding-left: 100px;
+}
+.item1 p{
+    width: 230px;
+    padding-left: 50px;
+}
+.item1 form section{
+    padding-left: 100px;
+    color: blue;
+    /* backdrop-filter: red; */
+}
+.vine{
+    display: flex;
+    padding-top: 80px;
+}
+.vine img{
+    width: 300px;
+    padding-left: 100px;
+}
+.vine div{
+    padding-left: 30px;
+}
+.vine p{
+    width: 400px;
+}
+ 
